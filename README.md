@@ -1,8 +1,3 @@
-# terraform構築
-
-作成日時: 2022年2月5日 午後 6:32
-更新日時: 2022年2月5日 午後 8:12
-
 # Terraform on AWS
 
 ## AWS CLI v2 インストール (macOS)
